@@ -1,13 +1,13 @@
-![logo](https://github.com/SuryaCodeCraft/SuryaCodeCraft/blob/main/GITHUB%20BANNER.png)
 
+![logo](https://github.com/SuryaCodeCraft/SuryaCodeCraft/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Surya Kiran</h1>
 <h3 align="center">Passionate about solving real-world problems with AI-driven solutions. Focused on building scalable, user-friendly apps. Always learning and exploring new technologies.</h3>
-
 src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryacodecraft&label=Profile%20views&color=0e75b6&style=flat" alt="suryacodecraft" /> </p>
 
-- 🌱 I’m currently learning **Machine Learining,FrontEnd Development**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=suryacodecraft&label=Profile%20views&color=0e75b6&style=flat" alt="suryacodecraft" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning,FrontEnd Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuryaCodeCraft](https://github.com/SuryaCodeCraft)
 
@@ -19,10 +19,10 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/surya-kiran-761426266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-kiran-761426266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/invites/contact/?igsh=1nu0ozloni3a9&utm_content=l85ps9f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?igsh=1nu0ozloni3a9&utm_content=l85ps9f" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/seenusurya388" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/seenusurya388" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/seenusurya388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/seenusurya388" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/surya-kiran-761426266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-kiran-761426266" height="30" width="40" /></a>
+<a href="https://instagram.com/surya_kiran.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya_kiran.07" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/seenusurya388" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seenusurya388" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/seenusurya388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seenusurya388" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/surya_kiran-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surya_kiran-07" height="30" width="40" /></a>
 </p>
 
